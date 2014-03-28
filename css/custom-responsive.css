@@ -13,7 +13,6 @@
     padding-top:4%;
     width: 410px;
 	}
-	
 }
 
 @media (max-width: 480px){
@@ -27,5 +26,10 @@
 	.logo {
     padding-top: 25%;
     width: 262px;
+	}
+	.app_feature_list {
+		margin: 0 0.7% 25px;	}
+	.grid_menu{
+		width:320px;
 	}
 }
